@@ -11,7 +11,7 @@ export default async function Home() {
         <h1 className='text-6xl font-semibold font-sans'>Hello, I'm <br className='md:hidden' />
           <span className='font-bold bg-gradient-to-r from-red-600 to-orange-600 via-black text-transparent bg-clip-text'>Anas</span>
         </h1>
-        <p className='text-gray-600 font-semibold my-2'>nǐ hǎo Everyone! I'm an aspiring Snr. FullStack Developer</p>
+        <p className='text-gray-600 font-semibold my-2'>nǐ hǎo Everyone! I&apos;m an aspiring Snr. FullStack Developer</p>
       </div>
       <div className='px-3'>
         <p className='text-gray-600 font-bold text-2xl'>My Projects</p>
