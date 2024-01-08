@@ -11,6 +11,8 @@ export default defineConfig({
   dataset,
   schema,
   api: {
+    projectId: 'oho4fzhb',
+    dataset: 'production',
     // CORS configuration
     cors: {
       origin: ['https://next-sanity-delta.vercel.app'], // Replace with the actual URL of your Next.js application
