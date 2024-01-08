@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div>
       <div className='px-3 my-32'>
-        <h1 className='text-6xl font-semibold font-sans'>Hello, I'm <br className='md:hidden' />
+        <h1 className='text-6xl font-semibold font-sans'>Hello, I&apos;m <br className='md:hidden' />
           <span className='font-bold bg-gradient-to-r from-red-600 to-orange-600 via-black text-transparent bg-clip-text'>Anas</span>
         </h1>
         <p className='text-gray-600 font-semibold my-2'>nǐ hǎo Everyone! I&apos;m an aspiring Snr. FullStack Developer</p>
